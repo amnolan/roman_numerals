@@ -11,7 +11,7 @@ class RomanNumerals:
         roman_to_integer['C'] = 100
         roman_to_integer['D'] = 500
         roman_to_integer['M'] = 1000
-        # because roman numerals are a stupid numbering system
+        # because roman numerals is a stupid numbering system
         # treat the numbers as childishly simple numbers
         # so we are literally counting char by char instead of trying
         # to do some fancy look ahead list processing
